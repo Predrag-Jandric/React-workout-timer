@@ -1,6 +1,6 @@
 # React - Workout timer
 
-# 🔗 [Live Preview](reliable-pudding-0aed7c)
+# 🔗 [Live Preview](https://main--reliable-pudding-0aed7c.netlify.app/)
 
 ![Design preview](./public/preview.png)
 
