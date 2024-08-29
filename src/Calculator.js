@@ -11,6 +11,7 @@ function Calculator({ workouts, allowSound }) {
   const mins = Math.floor(duration);
   const seconds = (duration - mins) * 60;
 
+  // eslint-disable-next-line no-unused-vars
   const playSound = function () {
     if (!allowSound) return;
     const sound = new Audio(clickSound);
